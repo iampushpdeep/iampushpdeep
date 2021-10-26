@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://octodex.github.com/images/foundingfather_v2.png" height="200px" width="200px"> </p>
+<p align="center"> <img src="https://octodex.github.com/images/welcometocat.png" height="200px" width="200px"> </p>
 
 <h1 align="center">Namaste :pray: , I'm Pushpdeep</h1>
 <h3 align="center">A Machine Learning Enthusiast</h3>
