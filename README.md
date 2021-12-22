@@ -32,7 +32,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/pushpdeepsingh/](https://www.linkedin.com/in/pushpdeepsingh/)
 
-- ⚡ Fun fact: **I am obsessed with AURORA🎤.** 
+- ⚡ Fun fact: **I am obsessed with AURORA's music🎤.** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
