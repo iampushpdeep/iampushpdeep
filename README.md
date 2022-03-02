@@ -22,9 +22,9 @@
 
 - 👯 I’m looking to collaborate on **research projects (or pretty much anything) regarding machine learning, deep learning, computer vision, NLP or anything cool :)**
 
-- 📝 I write articles on [https://iampushpdeep.github.io/](https://iampushpdeep.github.io/)
+<!---- - 📝 I write articles on [https://iampushpdeep.github.io/](https://iampushpdeep.github.io/) --->
 
-- 💬 Ask me about **computer vision and NLP.**
+- 💬 Ask me about **ML and NLP.**
 
 - 📫 How to reach me **pushpdeep30@gmail.com**
 
@@ -32,7 +32,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/pushpdeepsingh/](https://www.linkedin.com/in/pushpdeepsingh/)
 
-- ⚡ Fun fact: **I am obsessed with AURORA's music🎤.** 
+<!---- - ⚡ Fun fact: **I am obsessed with AURORA's music🎤.** --->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
