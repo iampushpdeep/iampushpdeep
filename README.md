@@ -21,11 +21,11 @@
 
 - 💬 Ask me about **Deep Learning and NLP.**
 
-- 📫 How to reach me **pushpdeep30@gmail.com**
+- 📫 How to reach me pushpdeep30@gmail.com
 
 - 😄 Pronouns: he/him
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/pushpdeepsingh/](https://www.linkedin.com/in/pushpdeepsingh/)
 
-- ✨Obsession: **[AURORAmusic🧝‍♀️🎤](https://open.spotify.com/playlist/0kEuxyTNWLMX9V2cmZjyAS?si=fa22dac8a8a149e0)**
+- ✨Obsession: [AURORAmusic🧝‍♀️🎤](https://open.spotify.com/playlist/0kEuxyTNWLMX9V2cmZjyAS?si=fa22dac8a8a149e0)
 
