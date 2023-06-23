@@ -19,7 +19,7 @@
 
 - 🌐 Website : [https://sites.google.com/view/pushpdeep](https://sites.google.com/pushpdeep)
 
-- Twitter : [pushpdeep30](https://twitter.com/pushpdeep)
+- Twitter : [pushpdeep30](https://twitter.com/pushpdeep30)
 
 - 💬 Ask me about **Deep Learning and NLP.**
 
