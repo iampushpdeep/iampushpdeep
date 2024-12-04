@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on **research projects (or pretty much anything) regarding Machine Learning, Deep Learning, NLP, Computer Vision or anything cool :)**
 
-- 🌐 Website : [https://sites.google.com/view/pushpdeep](https://sites.google.com/pushpdeep)
+- 🌐 Website : [https://sites.google.com/view/pushpdeep](https://sites.google.com/view/pushpdeep)
 
 - Twitter : [pushpdeep30](https://twitter.com/pushpdeep30)
 
